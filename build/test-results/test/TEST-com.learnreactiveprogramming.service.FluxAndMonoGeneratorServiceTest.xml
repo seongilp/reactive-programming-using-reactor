@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learnreactiveprogramming.service.FluxAndMonoGeneratorServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-16T04:27:24" hostname="mini.local" time="0.053">
+  <properties/>
+  <testcase name="explore_zip_1()" classname="com.learnreactiveprogramming.service.FluxAndMonoGeneratorServiceTest" time="0.053"/>
+  <system-out><![CDATA[13:27:24.416 [Test worker] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+13:27:24.424 [Test worker] INFO reactor.Flux.Map.1 - onSubscribe(FluxMap.MapSubscriber)
+13:27:24.425 [Test worker] INFO reactor.Flux.Map.1 - request(unbounded)
+13:27:24.429 [Test worker] INFO reactor.Flux.Map.1 - onNext(AD14)
+13:27:24.429 [Test worker] INFO reactor.Flux.Map.1 - onNext(BE25)
+13:27:24.429 [Test worker] INFO reactor.Flux.Map.1 - onNext(CF36)
+13:27:24.429 [Test worker] INFO reactor.Flux.Map.1 - onComplete()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
